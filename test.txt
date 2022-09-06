@@ -1,2 +1,1 @@
-hello Python
-hello cpp
+Hello, World.
