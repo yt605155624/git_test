@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Hello, World.
+=======
+hello golang
+hello Python
+hello cpp
+hello java
+>>>>>>> f52d0f6d32f308034a590aebb97d61720b80b6b4
